@@ -1,3 +1,7 @@
+![image](https://github.com/bozuna92/Azure-storage-account/assets/155588954/c28abe86-81bf-4d2b-bf13-500f12569981)
+
+
+
 # Azure-storage-account
 
 To create a Storage account on azure ( sort of like a google drive)
